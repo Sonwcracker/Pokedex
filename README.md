@@ -1,0 +1,1 @@
+Pokedex feita em react utilizando API e useEffect e useState
